@@ -1,0 +1,7 @@
+Ip Público:177.10.128.208
+
+Ip Privado: 10.0.0.84
+Mac Addr: d4:5d:64:8f:fa:e1
+
+Classe Ip Publico:Classe B
+Fabricante da Placa de rede: ASUSTek COMPUTER INC.
